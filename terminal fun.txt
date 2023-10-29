@@ -1,0 +1,6 @@
+sl (поезд)
+cowsay (корова)
+toilet (ASCII)
+aalib (aafire -driver curses)
+asciiquarium (аквариум)
+aview (фотки в ASCII)

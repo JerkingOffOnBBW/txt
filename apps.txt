@@ -1,0 +1,15 @@
+qtile
+qtile-extras
+alacritty
+kitty
+thunar
+rofi
+nitrogen
+feh
+lxappearance
+neofetch
+neovim
+lite-xl
+sublime-text
+archlinux-logout (arco)
+edex-ui-bin
